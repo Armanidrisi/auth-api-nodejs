@@ -48,7 +48,7 @@ By default, the server will run on port 3000. You can change this by setting the
 
 - `POST /api/login` - Log in to an existing user account
 
-- `GET /protected` - Access a protected route that requires authentication
+- `GET /api/protected` - Access a protected route that requires authentication
 
 ### 👤 Author
 
