@@ -44,11 +44,11 @@ By default, the server will run on port 3000. You can change this by setting the
 
 ### 🛣️ Available Routes
 
-- `POST /api/signup` - Create a new user account
+- `POST /api/auth/signup` - Create a new user account
 
-- `POST /api/login` - Log in to an existing user account
+- `POST /api/auth/login` - Log in to an existing user account
 
-- `GET /api/protected` - Access a protected route that requires authentication
+- `GET /api/auth/protected` - Access a protected route that requires authentication
 
 ### 👤 Author
 
